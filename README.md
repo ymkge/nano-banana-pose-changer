@@ -41,8 +41,8 @@ graph TD
 
     F -- Base64画像 --> G;
 
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style I fill:#bbf,stroke:#333,stroke-width:2px
+    style A fill:#025c57,stroke:#333,stroke-width:2px
+    style I fill:#025c57,stroke:#333,stroke-width:2px
 ```
 
 ## 🛠️ 使用技術
