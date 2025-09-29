@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana Pose Changer",
+  "description": "An application to change the pose of a character in an image using a stick figure drawing and text prompts, powered by the Gemini 'Nano Banana' model.",
+  "requestFramePermissions": []
+}
