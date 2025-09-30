@@ -3,6 +3,7 @@
 <div align="center">
 <img width="1200" alt="app-screenshot" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
+<img width="1861" height="945" alt="スクリーンショット 2025-09-30 23 18 44" src="https://github.com/user-attachments/assets/0a6fd31b-f5ac-4173-9854-46eeb2ba4163" />
 
 **Nano Banana ポーズチェンジャー**は、AIの力を使ってキャラクターのイラストのポーズを自由に変更できるWebアプリケーションです。お気に入りのキャラクターの画像をアップロードし、新しいポーズを棒人間で描くだけで、AIが自然なポーズの画像を生成します。
 
