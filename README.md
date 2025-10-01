@@ -77,7 +77,7 @@ graph TD
     ```
 
 3.  **APIキーの設定**:
-    プロジェクトのルートに `.env` ファイルを作成し、お持ちのGemini APIキーを設定します。(Google ai studioの無料KEYだとエラーとなります。有料アカウントKEYの設定が必要です)
+    プロジェクトのルートに `.env` ファイルを作成し、お持ちのGemini APIキーを設定します。(Google ai studioの無料KEYだとエラーとなります。geminiの有料アカウントKEYの設定が必要です)
 
     ```
     API_KEY=YOUR_GEMINI_API_KEY
